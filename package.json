@@ -1,7 +1,7 @@
 {
-  "name": "sample_token",
+  "name": "erc20_token_transfer",
   "version": "1.0.0",
-  "description": "Creation of sample token using standard openZeppelin",
+  "description": "We can transfer any ERC20 token using smart contract",
   "author": "shaikh.muddassar8@gmail.com",
   "scripts": {
     "test": "mocha"
