@@ -1,6 +1,6 @@
 # sample_token
 
-Creation of sample token using standard openZeppelin and testing it using truffle
+Creation of ERC20 token transfer functionality using standard openZeppelin and testing it using truffle
 
 ## Step for running this project
 
