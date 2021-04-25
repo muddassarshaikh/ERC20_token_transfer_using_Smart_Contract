@@ -1,4 +1,4 @@
-# sample_token
+# ERC20 token transfer functionality
 
 Creation of ERC20 token transfer functionality using standard openZeppelin and testing it using truffle
 
